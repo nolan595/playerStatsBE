@@ -1,0 +1,896 @@
+{
+    "team": {
+        "sub_teams": [],
+        "sport_id": 1,
+        "short_code": {
+            "value": "LFC"
+        },
+        "platform_id": null,
+        "name": "Liverpool",
+        "id": 44,
+        "features": [
+            20,
+            21,
+            22
+        ],
+        "country_code": {
+            "value": "ENG"
+        }
+    },
+    "sportradar_us_seasons": [],
+    "players": [
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "7"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_forward"
+                ]
+            },
+            "position": 4,
+            "player": {
+                "platform_id": null,
+                "name": "Diaz, Luis",
+                "id": 1134923
+            },
+            "injury": null,
+            "country_code": {
+                "value": "COL"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "9"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_forward"
+                ]
+            },
+            "position": 4,
+            "player": {
+                "platform_id": null,
+                "name": "Nunez, Darwin",
+                "id": 1406549
+            },
+            "injury": null,
+            "country_code": {
+                "value": "URY"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "11"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_forward"
+                ]
+            },
+            "position": 4,
+            "player": {
+                "platform_id": null,
+                "name": "Salah, Mohamed",
+                "id": 159665
+            },
+            "injury": null,
+            "country_code": {
+                "value": "EGY"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "18"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_forward"
+                ]
+            },
+            "position": 4,
+            "player": {
+                "platform_id": null,
+                "name": "Gakpo, Cody",
+                "id": 1058437
+            },
+            "injury": null,
+            "country_code": {
+                "value": "NLD"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "20"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_forward"
+                ]
+            },
+            "position": 4,
+            "player": {
+                "platform_id": null,
+                "name": "Jota, Diogo",
+                "id": 606164
+            },
+            "injury": null,
+            "country_code": {
+                "value": "PRT"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "51"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_forward"
+                ]
+            },
+            "position": 4,
+            "player": {
+                "platform_id": null,
+                "name": "Kone Doherty, Trent",
+                "id": 2439483
+            },
+            "injury": null,
+            "country_code": {
+                "value": "IRL"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "73"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_forward"
+                ]
+            },
+            "position": 4,
+            "player": {
+                "platform_id": null,
+                "name": "Ngumoha, Rio",
+                "id": 2915821
+            },
+            "injury": null,
+            "country_code": {
+                "value": "ENG"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "82"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_forward"
+                ]
+            },
+            "position": 4,
+            "player": {
+                "platform_id": null,
+                "name": "Young, Ranel",
+                "id": 2439493
+            },
+            "injury": null,
+            "country_code": {
+                "value": "ENG"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "3"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_middle"
+                ]
+            },
+            "position": 3,
+            "player": {
+                "platform_id": null,
+                "name": "Endo, Wataru",
+                "id": 143040
+            },
+            "injury": null,
+            "country_code": {
+                "value": "JPN"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "8"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_middle"
+                ]
+            },
+            "position": 3,
+            "player": {
+                "platform_id": null,
+                "name": "Szoboszlai, Dominik",
+                "id": 1064588
+            },
+            "injury": null,
+            "country_code": {
+                "value": "HUN"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "10"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_middle"
+                ]
+            },
+            "position": 3,
+            "player": {
+                "platform_id": null,
+                "name": "MacAllister, Alexis",
+                "id": 1245194
+            },
+            "injury": null,
+            "country_code": {
+                "value": "ARG"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "14"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_middle"
+                ]
+            },
+            "position": 3,
+            "player": {
+                "platform_id": null,
+                "name": "Chiesa, Federico",
+                "id": 1012117
+            },
+            "injury": null,
+            "country_code": {
+                "value": "ITA"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "17"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_middle"
+                ]
+            },
+            "position": 3,
+            "player": {
+                "platform_id": null,
+                "name": "Jones, Curtis",
+                "id": 1298510
+            },
+            "injury": null,
+            "country_code": {
+                "value": "ENG"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "19"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_middle"
+                ]
+            },
+            "position": 3,
+            "player": {
+                "platform_id": null,
+                "name": "Elliott, Harvey",
+                "id": 1604594
+            },
+            "injury": null,
+            "country_code": {
+                "value": "ENG"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "38"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_middle"
+                ]
+            },
+            "position": 3,
+            "player": {
+                "platform_id": null,
+                "name": "Gravenberch, Ryan",
+                "id": 1319220
+            },
+            "injury": null,
+            "country_code": {
+                "value": "NLD"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "52"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_middle"
+                ]
+            },
+            "position": 3,
+            "player": {
+                "platform_id": null,
+                "name": "Mabaya, Isaac",
+                "id": 2263171
+            },
+            "injury": null,
+            "country_code": {
+                "value": "ENG"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "53"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_middle"
+                ]
+            },
+            "position": 3,
+            "player": {
+                "platform_id": null,
+                "name": "James McConnell",
+                "id": 2263797
+            },
+            "injury": null,
+            "country_code": {
+                "value": "ENG"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "68"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_middle"
+                ]
+            },
+            "position": 3,
+            "player": {
+                "platform_id": null,
+                "name": "Morrison, Kieran",
+                "id": 2569099
+            },
+            "injury": null,
+            "country_code": {
+                "value": "NIR"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "80"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_middle"
+                ]
+            },
+            "position": 3,
+            "player": {
+                "platform_id": null,
+                "name": "Morton, Tyler",
+                "id": 1939964
+            },
+            "injury": null,
+            "country_code": {
+                "value": "ENG"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "98"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_middle"
+                ]
+            },
+            "position": 3,
+            "player": {
+                "platform_id": null,
+                "name": "Nyoni, Treymaurice",
+                "id": 2714270
+            },
+            "injury": null,
+            "country_code": {
+                "value": "ENG"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "2"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_defence"
+                ]
+            },
+            "position": 2,
+            "player": {
+                "platform_id": null,
+                "name": "Gomez, Joe",
+                "id": 318927
+            },
+            "injury": null,
+            "country_code": {
+                "value": "ENG"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "4"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_defence"
+                ]
+            },
+            "position": 2,
+            "player": {
+                "platform_id": null,
+                "name": "Van Dijk, Virgil",
+                "id": 151545
+            },
+            "injury": null,
+            "country_code": {
+                "value": "NLD"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "5"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_defence"
+                ]
+            },
+            "position": 2,
+            "player": {
+                "platform_id": null,
+                "name": "Konate, Ibrahima",
+                "id": 936572
+            },
+            "injury": null,
+            "country_code": {
+                "value": "FRA"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "21"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_defence"
+                ]
+            },
+            "position": 2,
+            "player": {
+                "platform_id": null,
+                "name": "Tsimikas, Kostas",
+                "id": 605434
+            },
+            "injury": null,
+            "country_code": {
+                "value": "GRC"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "26"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_defence"
+                ]
+            },
+            "position": 2,
+            "player": {
+                "platform_id": null,
+                "name": "Robertson, Andy",
+                "id": 262911
+            },
+            "injury": null,
+            "country_code": {
+                "value": "SCO"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "65"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_defence"
+                ]
+            },
+            "position": 2,
+            "player": {
+                "platform_id": null,
+                "name": "Nallo, Amara",
+                "id": 2772009
+            },
+            "injury": null,
+            "country_code": {
+                "value": "ENG"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "78"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_defence"
+                ]
+            },
+            "position": 2,
+            "player": {
+                "platform_id": null,
+                "name": "Quansah, Jarell",
+                "id": 1939988
+            },
+            "injury": null,
+            "country_code": {
+                "value": "ENG"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "84"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_defence"
+                ]
+            },
+            "position": 2,
+            "player": {
+                "platform_id": null,
+                "name": "Bradley, Conor",
+                "id": 1939996
+            },
+            "injury": null,
+            "country_code": {
+                "value": "NIR"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "1"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_goalkeeper"
+                ]
+            },
+            "position": 1,
+            "player": {
+                "platform_id": null,
+                "name": "Alisson",
+                "id": 243609
+            },
+            "injury": null,
+            "country_code": {
+                "value": "BRA"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "56"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_goalkeeper"
+                ]
+            },
+            "position": 1,
+            "player": {
+                "platform_id": null,
+                "name": "Jaros, Vitezslav",
+                "id": 1298242
+            },
+            "injury": null,
+            "country_code": {
+                "value": "CZE"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "62"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_goalkeeper"
+                ]
+            },
+            "position": 1,
+            "player": {
+                "platform_id": null,
+                "name": "Kelleher, Caoimhin",
+                "id": 755360
+            },
+            "injury": null,
+            "country_code": {
+                "value": "IRL"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "93"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_goalkeeper"
+                ]
+            },
+            "position": 1,
+            "player": {
+                "platform_id": null,
+                "name": "Mrozek, Fabian",
+                "id": 2263163
+            },
+            "injury": null,
+            "country_code": {
+                "value": "POL"
+            }
+        },
+        {
+            "statistics": [],
+            "shirt_number": {
+                "value": "95"
+            },
+            "seasonal_statistics": [],
+            "position_short_name": null,
+            "position_name": {
+                "val": "{t}",
+                "args": [
+                    "player_position_goalkeeper"
+                ]
+            },
+            "position": 1,
+            "player": {
+                "platform_id": null,
+                "name": "Davies, Harvey",
+                "id": 1939984
+            },
+            "injury": null,
+            "country_code": {
+                "value": "ENG"
+            }
+        }
+    ],
+    "manager": {
+        "name": "Arne Slot",
+        "id": 2250,
+        "country_code": {
+            "value": "NLD"
+        }
+    },
+    "jerseys": [
+        {
+            "vertical_stripes": null,
+            "type": 0,
+            "squares": null,
+            "split": null,
+            "sleeve": {
+                "value": "E41E2C"
+            },
+            "shirt_type": 1,
+            "outline": null,
+            "number": {
+                "value": "FFFFFF"
+            },
+            "horizontal_stripes": null,
+            "base": {
+                "value": "E41E2C"
+            }
+        },
+        {
+            "vertical_stripes": null,
+            "type": 1,
+            "squares": null,
+            "split": null,
+            "sleeve": {
+                "value": "4FB5C1"
+            },
+            "shirt_type": 1,
+            "outline": null,
+            "number": {
+                "value": "FFFFFF"
+            },
+            "horizontal_stripes": null,
+            "base": {
+                "value": "000000"
+            }
+        },
+        {
+            "vertical_stripes": null,
+            "type": 2,
+            "squares": null,
+            "split": null,
+            "sleeve": {
+                "value": "121820"
+            },
+            "shirt_type": 1,
+            "outline": null,
+            "number": {
+                "value": "F3F5F0"
+            },
+            "horizontal_stripes": null,
+            "base": {
+                "value": "18FFFB"
+            }
+        },
+        {
+            "vertical_stripes": null,
+            "type": 6,
+            "squares": null,
+            "split": null,
+            "sleeve": {
+                "value": "DE020E"
+            },
+            "shirt_type": 1,
+            "outline": null,
+            "number": {
+                "value": "000000"
+            },
+            "horizontal_stripes": null,
+            "base": {
+                "value": "FFFFFF"
+            }
+        }
+    ]
+}

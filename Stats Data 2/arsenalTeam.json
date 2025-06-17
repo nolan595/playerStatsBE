@@ -1,0 +1,1218 @@
+{
+  "midfielders": [
+    {
+      "shirt_number": "44",
+      "position": 3,
+      "player": {
+        "weight": {
+          "value": "69"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "jimi-gower"
+          },
+          "hash": {
+            "value": "j8wwoatv"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Gower, Jimi",
+        "id": "br:player:2711838",
+        "height": {
+          "value": "180"
+        },
+        "country_code": {
+          "value": "ENG"
+        },
+        "birth_date": {
+          "value": "2004-10-01"
+        }
+      }
+    },
+    {
+      "shirt_number": "53",
+      "position": 3,
+      "player": {
+        "weight": {
+          "value": "70"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "ethan-nwaneri"
+          },
+          "hash": {
+            "value": "3axow9sr"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_left"
+          ]
+        },
+        "preferred_foot": 1,
+        "name": "Nwaneri, Ethan",
+        "id": "br:player:2447727",
+        "height": {
+          "value": "176"
+        },
+        "country_code": {
+          "value": "ENG"
+        },
+        "birth_date": {
+          "value": "2007-03-21"
+        }
+      }
+    },
+    {
+      "shirt_number": "56",
+      "position": 3,
+      "player": {
+        "weight": {
+          "value": "70"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "salah-eddine-oulad-mhand"
+          },
+          "hash": {
+            "value": "2tyby50a"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Oulad M Hand, Salah Eddine",
+        "id": "br:player:2244495",
+        "height": {
+          "value": "177"
+        },
+        "country_code": {
+          "value": "NLD"
+        },
+        "birth_date": {
+          "value": "2003-08-20"
+        }
+      }
+    },
+    {
+      "shirt_number": "41",
+      "position": 3,
+      "player": {
+        "weight": {
+          "value": "84"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "declan-rice"
+          },
+          "hash": {
+            "value": "wtcl09t8"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Rice, Declan",
+        "id": "br:player:934552",
+        "height": {
+          "value": "188"
+        },
+        "country_code": {
+          "value": "ENG"
+        },
+        "birth_date": {
+          "value": "1999-01-14"
+        }
+      }
+    },
+    {
+      "shirt_number": "23",
+      "position": 3,
+      "player": {
+        "weight": {
+          "value": "83"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "mikel-merino"
+          },
+          "hash": {
+            "value": "s63enf51"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_left"
+          ]
+        },
+        "preferred_foot": 1,
+        "name": "Merino, Mikel",
+        "id": "br:player:592010",
+        "height": {
+          "value": "189"
+        },
+        "country_code": {
+          "value": "ESP"
+        },
+        "birth_date": {
+          "value": "1996-06-22"
+        }
+      }
+    },
+    {
+      "shirt_number": "49",
+      "position": 3,
+      "player": {
+        "weight": {
+          "value": "72"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "myles-lewis-skelly"
+          },
+          "hash": {
+            "value": "qx7llj7c"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_left"
+          ]
+        },
+        "preferred_foot": 1,
+        "name": "Lewis-Skelly, Myles",
+        "id": "br:player:2518835",
+        "height": {
+          "value": "178"
+        },
+        "country_code": {
+          "value": "ENG"
+        },
+        "birth_date": {
+          "value": "2006-09-26"
+        }
+      }
+    },
+    {
+      "shirt_number": "8",
+      "position": 3,
+      "player": {
+        "weight": {
+          "value": "68"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "martin-odegaard"
+          },
+          "hash": {
+            "value": "afios60e"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_left"
+          ]
+        },
+        "preferred_foot": 1,
+        "name": "Odegaard, Martin",
+        "id": "br:player:547410",
+        "height": {
+          "value": "178"
+        },
+        "country_code": {
+          "value": "NOR"
+        },
+        "birth_date": {
+          "value": "1998-12-17"
+        }
+      }
+    },
+    {
+      "shirt_number": "5",
+      "position": 3,
+      "player": {
+        "weight": {
+          "value": "77"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "thomas-partey"
+          },
+          "hash": {
+            "value": "ps5jzfeq"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Partey, Thomas",
+        "id": "br:player:316148",
+        "height": {
+          "value": "185"
+        },
+        "country_code": {
+          "value": "GHA"
+        },
+        "birth_date": {
+          "value": "1993-06-13"
+        }
+      }
+    },
+    {
+      "shirt_number": "45",
+      "position": 3,
+      "player": {
+        "weight": null,
+        "seo_id": {
+          "slug": {
+            "value": "jack-henry-francis"
+          },
+          "hash": {
+            "value": "vgakmpk9"
+          }
+        },
+        "preferred_foot_name": null,
+        "preferred_foot": 0,
+        "name": "Henry-Francis, Jack",
+        "id": "br:player:2836833",
+        "height": {
+          "value": "181"
+        },
+        "country_code": {
+          "value": "IRL"
+        },
+        "birth_date": {
+          "value": "2003-09-23"
+        }
+      }
+    }
+  ],
+  "manager": {
+    "name": "Arteta, Mikel",
+    "id": "br:manager:1152",
+    "country_code": {
+      "value": "ESP"
+    }
+  },
+  "home_jersey": {
+    "vertical_stripes": null,
+    "type": 0,
+    "squares": null,
+    "split": null,
+    "sleeve": {
+      "value": "FFFFFF"
+    },
+    "shirt_type": 1,
+    "outline": null,
+    "number": {
+      "value": "FFFFFF"
+    },
+    "horizontal_stripes": null,
+    "base": {
+      "value": "E10000"
+    }
+  },
+  "goalkeepers": [
+    {
+      "shirt_number": "32",
+      "position": 1,
+      "player": {
+        "weight": {
+          "value": "84"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "neto"
+          },
+          "hash": {
+            "value": "nps05zku"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Neto",
+        "id": "br:player:84844",
+        "height": {
+          "value": "190"
+        },
+        "country_code": {
+          "value": "BRA"
+        },
+        "birth_date": {
+          "value": "1989-07-19"
+        }
+      }
+    },
+    {
+      "shirt_number": "36",
+      "position": 1,
+      "player": {
+        "weight": {
+          "value": "76"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "tommy-setford"
+          },
+          "hash": {
+            "value": "79z473mr"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Setford, Tommy",
+        "id": "br:player:2268223",
+        "height": {
+          "value": "185"
+        },
+        "country_code": {
+          "value": "ENG"
+        },
+        "birth_date": {
+          "value": "2006-03-13"
+        }
+      }
+    },
+    {
+      "shirt_number": "22",
+      "position": 1,
+      "player": {
+        "weight": {
+          "value": "80"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "david-raya"
+          },
+          "hash": {
+            "value": "q05d4unq"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Raya, David",
+        "id": "br:player:581310",
+        "height": {
+          "value": "183"
+        },
+        "country_code": {
+          "value": "ESP"
+        },
+        "birth_date": {
+          "value": "1995-09-15"
+        }
+      }
+    },
+    {
+      "shirt_number": "62",
+      "position": 1,
+      "player": {
+        "weight": {
+          "value": "77"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "alexei-rojas"
+          },
+          "hash": {
+            "value": "sdosa5tv"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Rojas, Alexei",
+        "id": "br:player:2605855",
+        "height": {
+          "value": "186"
+        },
+        "country_code": {
+          "value": "COL"
+        },
+        "birth_date": {
+          "value": "2005-09-28"
+        }
+      }
+    },
+    {
+      "shirt_number": "92",
+      "position": 1,
+      "player": {
+        "weight": {
+          "value": "75"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "jack-porter"
+          },
+          "hash": {
+            "value": "igm6kxm7"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Porter, Jack",
+        "id": "br:player:2863029",
+        "height": {
+          "value": "187"
+        },
+        "country_code": {
+          "value": "ENG"
+        },
+        "birth_date": {
+          "value": "2008-07-15"
+        }
+      }
+    }
+  ],
+  "defenders": [
+    {
+      "shirt_number": "51",
+      "position": 2,
+      "player": {
+        "weight": {
+          "value": "56"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "joshua-nichols"
+          },
+          "hash": {
+            "value": "jjbzttbp"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Nichols, Joshua",
+        "id": "br:player:2691828",
+        "height": {
+          "value": "165"
+        },
+        "country_code": {
+          "value": "ENG"
+        },
+        "birth_date": {
+          "value": "2006-07-26"
+        }
+      }
+    },
+    {
+      "shirt_number": "18",
+      "position": 2,
+      "player": {
+        "weight": {
+          "value": "84"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "takehiro-tomiyasu"
+          },
+          "hash": {
+            "value": "oj11ha23"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_both"
+          ]
+        },
+        "preferred_foot": 3,
+        "name": "Tomiyasu, Takehiro",
+        "id": "br:player:772819",
+        "height": {
+          "value": "187"
+        },
+        "country_code": {
+          "value": "JPN"
+        },
+        "birth_date": {
+          "value": "1998-11-05"
+        }
+      }
+    },
+    {
+      "shirt_number": "17",
+      "position": 2,
+      "player": {
+        "weight": {
+          "value": "64"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "oleksandr-zinchenko"
+          },
+          "hash": {
+            "value": "beeqmoi3"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_left"
+          ]
+        },
+        "preferred_foot": 1,
+        "name": "Zinchenko, Olexandr",
+        "id": "br:player:287643",
+        "height": {
+          "value": "175"
+        },
+        "country_code": {
+          "value": "UKR"
+        },
+        "birth_date": {
+          "value": "1996-12-15"
+        }
+      }
+    },
+    {
+      "shirt_number": "2",
+      "position": 2,
+      "player": {
+        "weight": {
+          "value": "92"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "william-saliba"
+          },
+          "hash": {
+            "value": "m3g145q4"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Saliba, William",
+        "id": "br:player:1513599",
+        "height": {
+          "value": "192"
+        },
+        "country_code": {
+          "value": "FRA"
+        },
+        "birth_date": {
+          "value": "2001-03-24"
+        }
+      }
+    },
+    {
+      "shirt_number": "-",
+      "position": 2,
+      "player": {
+        "weight": null,
+        "seo_id": null,
+        "preferred_foot_name": null,
+        "preferred_foot": 0,
+        "name": "Brayden Cian Clarke",
+        "id": "opta:player:6osh475gonm7zrjyiwphp28t0",
+        "height": null,
+        "country_code": {
+          "value": "WAL"
+        },
+        "birth_date": {
+          "value": "2007-07-03"
+        }
+      }
+    },
+    {
+      "shirt_number": "15",
+      "position": 2,
+      "player": {
+        "weight": {
+          "value": "75"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "jakub-kiwior"
+          },
+          "hash": {
+            "value": "3n4dmqai"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_left"
+          ]
+        },
+        "preferred_foot": 1,
+        "name": "Kiwior, Jakub",
+        "id": "br:player:1091644",
+        "height": {
+          "value": "189"
+        },
+        "country_code": {
+          "value": "POL"
+        },
+        "birth_date": {
+          "value": "2000-02-15"
+        }
+      }
+    },
+    {
+      "shirt_number": "63",
+      "position": 2,
+      "player": {
+        "weight": null,
+        "seo_id": {
+          "slug": {
+            "value": "michal-rosiak"
+          },
+          "hash": {
+            "value": "jh8aq6g5"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Rosiak, Michal",
+        "id": "br:player:2691812",
+        "height": {
+          "value": "180"
+        },
+        "country_code": {
+          "value": "POL"
+        },
+        "birth_date": {
+          "value": "2005-10-12"
+        }
+      }
+    },
+    {
+      "shirt_number": "3",
+      "position": 2,
+      "player": {
+        "weight": {
+          "value": "70"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "kieran-tierney"
+          },
+          "hash": {
+            "value": "j8awh0gw"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_left"
+          ]
+        },
+        "preferred_foot": 1,
+        "name": "Tierney, Kieran",
+        "id": "br:player:366592",
+        "height": {
+          "value": "178"
+        },
+        "country_code": {
+          "value": "SCO"
+        },
+        "birth_date": {
+          "value": "1997-06-05"
+        }
+      }
+    },
+    {
+      "shirt_number": "6",
+      "position": 2,
+      "player": {
+        "weight": {
+          "value": "78"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "gabriel-magalhaes"
+          },
+          "hash": {
+            "value": "eiper09h"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_left"
+          ]
+        },
+        "preferred_foot": 1,
+        "name": "Magalhaes, Gabriel",
+        "id": "br:player:1099395",
+        "height": {
+          "value": "190"
+        },
+        "country_code": {
+          "value": "BRA"
+        },
+        "birth_date": {
+          "value": "1997-12-19"
+        }
+      }
+    },
+    {
+      "shirt_number": "12",
+      "position": 2,
+      "player": {
+        "weight": {
+          "value": "79"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "jurrien-timber"
+          },
+          "hash": {
+            "value": "d4t0o6fm"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Timber, Jurrien",
+        "id": "br:player:1059325",
+        "height": {
+          "value": "179"
+        },
+        "country_code": {
+          "value": "NLD"
+        },
+        "birth_date": {
+          "value": "2001-06-17"
+        }
+      }
+    },
+    {
+      "shirt_number": "4",
+      "position": 2,
+      "player": {
+        "weight": {
+          "value": "76"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "ben-white"
+          },
+          "hash": {
+            "value": "18dkg71y"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "White, Ben",
+        "id": "br:player:1015179",
+        "height": {
+          "value": "186"
+        },
+        "country_code": {
+          "value": "ENG"
+        },
+        "birth_date": {
+          "value": "1997-10-08"
+        }
+      }
+    },
+    {
+      "shirt_number": "33",
+      "position": 2,
+      "player": {
+        "weight": {
+          "value": "86"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "riccardo-calafiori"
+          },
+          "hash": {
+            "value": "hlz7m7u8"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_left"
+          ]
+        },
+        "preferred_foot": 1,
+        "name": "Calafiori, Riccardo",
+        "id": "br:player:1297524",
+        "height": {
+          "value": "188"
+        },
+        "country_code": {
+          "value": "ITA"
+        },
+        "birth_date": {
+          "value": "2002-05-19"
+        }
+      }
+    }
+  ],
+  "away_jersey": {
+    "vertical_stripes": null,
+    "type": 1,
+    "squares": null,
+    "split": null,
+    "sleeve": {
+      "value": "000000"
+    },
+    "shirt_type": 1,
+    "outline": null,
+    "number": {
+      "value": "FFFFFF"
+    },
+    "horizontal_stripes": null,
+    "base": {
+      "value": "000000"
+    }
+  },
+  "attackers": [
+    {
+      "shirt_number": "46",
+      "position": 4,
+      "player": {
+        "weight": {
+          "value": "70"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "ismeal-kabia"
+          },
+          "hash": {
+            "value": "39et1fsr"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Kabia, Ismeal",
+        "id": "br:player:2758543",
+        "height": {
+          "value": "175"
+        },
+        "country_code": {
+          "value": "NLD"
+        },
+        "birth_date": {
+          "value": "2005-12-10"
+        }
+      }
+    },
+    {
+      "shirt_number": "37",
+      "position": 4,
+      "player": {
+        "weight": {
+          "value": "74"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "nathan-butler-oyedeji"
+          },
+          "hash": {
+            "value": "1rta6w1z"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Butler-Oyedeji, Nathan",
+        "id": "br:player:2506009",
+        "height": {
+          "value": "177"
+        },
+        "country_code": {
+          "value": "ENG"
+        },
+        "birth_date": {
+          "value": "2003-01-04"
+        }
+      }
+    },
+    {
+      "shirt_number": "11",
+      "position": 4,
+      "player": {
+        "weight": {
+          "value": "75"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "gabriel-martinelli"
+          },
+          "hash": {
+            "value": "qgbkpx42"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Martinelli, Gabriel",
+        "id": "br:player:1663313",
+        "height": {
+          "value": "178"
+        },
+        "country_code": {
+          "value": "BRA"
+        },
+        "birth_date": {
+          "value": "2001-06-18"
+        }
+      }
+    },
+    {
+      "shirt_number": "19",
+      "position": 4,
+      "player": {
+        "weight": {
+          "value": "61"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "leandro-trossard"
+          },
+          "hash": {
+            "value": "hs7mr8rd"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Trossard, Leandro",
+        "id": "br:player:135666",
+        "height": {
+          "value": "172"
+        },
+        "country_code": {
+          "value": "BEL"
+        },
+        "birth_date": {
+          "value": "1994-12-04"
+        }
+      }
+    },
+    {
+      "shirt_number": "7",
+      "position": 4,
+      "player": {
+        "weight": {
+          "value": "72"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "bukayo-saka"
+          },
+          "hash": {
+            "value": "gx9an41b"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_left"
+          ]
+        },
+        "preferred_foot": 1,
+        "name": "Saka, Bukayo",
+        "id": "br:player:1479630",
+        "height": {
+          "value": "178"
+        },
+        "country_code": {
+          "value": "ENG"
+        },
+        "birth_date": {
+          "value": "2001-09-05"
+        }
+      }
+    },
+    {
+      "shirt_number": "9",
+      "position": 4,
+      "player": {
+        "weight": {
+          "value": "73"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "gabriel-jesus"
+          },
+          "hash": {
+            "value": "fdaw3s6v"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_right"
+          ]
+        },
+        "preferred_foot": 2,
+        "name": "Jesus, Gabriel",
+        "id": "br:player:835751",
+        "height": {
+          "value": "175"
+        },
+        "country_code": {
+          "value": "BRA"
+        },
+        "birth_date": {
+          "value": "1997-04-03"
+        }
+      }
+    },
+    {
+      "shirt_number": "30",
+      "position": 4,
+      "player": {
+        "weight": {
+          "value": "69"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "raheem-sterling"
+          },
+          "hash": {
+            "value": "agbsb0wx"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_both"
+          ]
+        },
+        "preferred_foot": 3,
+        "name": "Sterling, Raheem",
+        "id": "br:player:138534",
+        "height": {
+          "value": "172"
+        },
+        "country_code": {
+          "value": "ENG"
+        },
+        "birth_date": {
+          "value": "1994-12-08"
+        }
+      }
+    },
+    {
+      "shirt_number": "29",
+      "position": 4,
+      "player": {
+        "weight": {
+          "value": "83"
+        },
+        "seo_id": {
+          "slug": {
+            "value": "kai-havertz"
+          },
+          "hash": {
+            "value": "wud76aix"
+          }
+        },
+        "preferred_foot_name": {
+          "val": "{t}",
+          "args": [
+            "stats.football.team_details.player_pref_foot_left"
+          ]
+        },
+        "preferred_foot": 1,
+        "name": "Havertz, Kai",
+        "id": "br:player:937210",
+        "height": {
+          "value": "193"
+        },
+        "country_code": {
+          "value": "DEU"
+        },
+        "birth_date": {
+          "value": "1999-06-11"
+        }
+      }
+    }
+  ]
+}
