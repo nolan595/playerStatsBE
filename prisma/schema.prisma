@@ -19,4 +19,23 @@ model Team {
   name       String
   createdAt  DateTime @default(now())
   updatedAt  DateTime @default(now()) @updatedAt
+
+  homeTeamSportEvents SportEvent[] @relation("homeTeamSportEvents")
+  awayTeamSportEvents SportEvent[] @relation("awayTeamSportEvents")
+}
+
+model SportEvent {
+  id           Int      @id @default(autoincrement())
+  externalId   Int
+  externalData Json?
+  name         String
+  startDate    DateTime
+  homeTeamId   Int
+  awayTeamId   Int
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+
+  homeTeamSportEvents Team @relation("homeTeamSportEvents", fields: [homeTeamId], references: [id])
+  awayTeamSportEvents Team @relation("awayTeamSportEvents", fields: [awayTeamId], references: [id])
 }

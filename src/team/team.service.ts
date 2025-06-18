@@ -7,7 +7,9 @@ import { PrismaService } from 'src/database/prisma.service';
 export class TeamService {
   constructor(private prismaService: PrismaService) {}
   create(createTeamDto: CreateTeamDto) {
-    return 'this works';
+    return this.prismaService.team.create({
+      data: createTeamDto,
+    });
   }
 
   findAll() {
