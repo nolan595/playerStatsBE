@@ -22,6 +22,7 @@ model Team {
 
   homeTeamSportEvents SportEvent[] @relation("homeTeamSportEvents")
   awayTeamSportEvents SportEvent[] @relation("awayTeamSportEvents")
+  players             Player[]
 }
 
 model SportEvent {
@@ -38,4 +39,18 @@ model SportEvent {
 
   homeTeamSportEvents Team @relation("homeTeamSportEvents", fields: [homeTeamId], references: [id])
   awayTeamSportEvents Team @relation("awayTeamSportEvents", fields: [awayTeamId], references: [id])
+}
+
+model Player {
+  id          Int    @id @default(autoincrement())
+  externalId  Int
+  name        String
+  shirtNumber Int
+  position    String
+  country     String
+  teamId      Int
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+  Team      Team     @relation(fields: [teamId], references: [id])
 }
