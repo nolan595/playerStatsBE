@@ -20,4 +20,12 @@ export class SuperbetApiController {
   getTeamPlayers(@Param('teamId') teamId: string) {
     return this.superbetApiService.getTeamPlayers(teamId);
   }
+  @Get('stats/player-match-stats/:matchId/:playerId')
+  getPlayerMatchStats(
+    @Param('matchId') matchId: string,
+    @Param('playerId')
+    playerId: string,
+  ) {
+    return this.superbetApiService.getPlayerMatchStats(matchId, playerId);
+  }
 }
