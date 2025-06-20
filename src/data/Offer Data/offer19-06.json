@@ -1,0 +1,447 @@
+{
+    "error": false,
+    "dataIn": {
+        "tournamentIds": [
+            83710
+        ],
+        "lang": "ro-RO",
+        "startDate": "2025-06-19T15:00:00Z",
+        "currentStatus": "active"
+    },
+    "data": [
+        {
+            "uuid": "908ce07e-fcb0-5ded-9a6d-fd706e930527",
+            "eventId": 7137777,
+            "matchDate": "2025-06-19 16:00:00",
+            "homeTeamId": "2883",
+            "awayTeamId": "20",
+            "matchCode": 9005,
+            "incrementId": 1008459,
+            "offerId": 7137777,
+            "sportId": 5,
+            "categoryId": 31,
+            "tournamentId": 83710,
+            "betradarId": "56189289",
+            "matchTags": "v2,superLive,price_boost",
+            "matchPromotedLiveOrder": 10000,
+            "tournamentPromotedLiveOrder": 10000,
+            "matchTimestamp": 1750347480217,
+            "hasLive": true,
+            "matchName": "Palmeiras·Al Ahly Cairo",
+            "specialOfferIds": [],
+            "offerStateStatus": {
+                "1": "active"
+            },
+            "hasStream": {
+                "1": "486601"
+            },
+            "marketCount": 299,
+            "counts": {
+                "odds": {
+                    "1": 3336,
+                    "2": 0
+                },
+                "markets": {
+                    "1": 299,
+                    "2": 0
+                }
+            },
+            "odds": [
+                {
+                    "uuid": "904421a7-a6ce-5cc4-9df2-bd824c064d67",
+                    "marketUuid": "04356c47-c595-548e-b9ab-8112c39a84db",
+                    "marketId": 547,
+                    "outcomeId": 1470,
+                    "price": 1.53,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "Combinable,BPWM,Pre-selected market,pm_boostable_market,v2",
+                    "code": "11",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "1",
+                    "marketName": "Final",
+                    "info": "Palmeiras câştigă meciul",
+                    "superAdvantageEligible": true
+                },
+                {
+                    "uuid": "f287b04a-d077-54bb-bdc0-f14a0998ef23",
+                    "marketUuid": "04356c47-c595-548e-b9ab-8112c39a84db",
+                    "marketId": 547,
+                    "outcomeId": 1471,
+                    "price": 4.15,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "10",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "X",
+                    "marketName": "Final",
+                    "info": "Egalitate"
+                },
+                {
+                    "uuid": "e0e5c8de-10ed-5cf2-b9b8-75006a0da50e",
+                    "marketUuid": "04356c47-c595-548e-b9ab-8112c39a84db",
+                    "marketId": 547,
+                    "outcomeId": 1472,
+                    "price": 6.5,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "12",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "2",
+                    "marketName": "Final",
+                    "info": "Al Ahly Cairo câştigă meciul",
+                    "superAdvantageEligible": true
+                }
+            ],
+            "oddsResults": null,
+            "matchResults": [],
+            "resolvingRules": [],
+            "utcDate": "2025-06-19T16:00:00Z",
+            "streams": [
+                "PREMATCH"
+            ],
+            "superAdvantage": "SA_PREMATCH"
+        },
+        {
+            "uuid": "62c8674a-45e5-5625-aa2e-acb7a8f18852",
+            "eventId": 7137779,
+            "matchDate": "2025-06-19 19:00:00",
+            "homeTeamId": "278778",
+            "awayTeamId": "4273",
+            "matchCode": 8520,
+            "incrementId": 1008645,
+            "offerId": 7137779,
+            "sportId": 5,
+            "categoryId": 31,
+            "tournamentId": 83710,
+            "betradarId": "56189291",
+            "matchTags": "superLive,SC,v2,price_boost",
+            "matchPromotedLiveOrder": 10000,
+            "tournamentPromotedLiveOrder": 10000,
+            "matchTimestamp": 1750347528589,
+            "hasLive": true,
+            "matchName": "Inter Miami·Porto",
+            "specialOfferIds": [],
+            "offerStateStatus": {
+                "1": "active"
+            },
+            "hasStream": {
+                "1": "486602"
+            },
+            "marketCount": 301,
+            "counts": {
+                "odds": {
+                    "1": 4125,
+                    "2": 0
+                },
+                "markets": {
+                    "1": 301,
+                    "2": 0
+                }
+            },
+            "odds": [
+                {
+                    "uuid": "c3454f8b-1298-59fc-9011-32243c7731f6",
+                    "marketUuid": "4f7c5932-6d00-50c0-b40d-80b70bf4d808",
+                    "marketId": 547,
+                    "outcomeId": 1470,
+                    "price": 3.85,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "Combinable,BPWM,Pre-selected market,pm_boostable_market,v2",
+                    "code": "11",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "1",
+                    "marketName": "Final",
+                    "info": "Inter Miami câştigă meciul",
+                    "superAdvantageEligible": true
+                },
+                {
+                    "uuid": "e42fe295-f6cf-59d9-8e72-96f9a23e7917",
+                    "marketUuid": "4f7c5932-6d00-50c0-b40d-80b70bf4d808",
+                    "marketId": 547,
+                    "outcomeId": 1471,
+                    "price": 3.9,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "10",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "X",
+                    "marketName": "Final",
+                    "info": "Egalitate"
+                },
+                {
+                    "uuid": "cdc8c07c-597d-5eea-ac67-ef5c6b141977",
+                    "marketUuid": "4f7c5932-6d00-50c0-b40d-80b70bf4d808",
+                    "marketId": 547,
+                    "outcomeId": 1472,
+                    "price": 1.87,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "12",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "2",
+                    "marketName": "Final",
+                    "info": "Porto câştigă meciul",
+                    "superAdvantageEligible": true
+                }
+            ],
+            "oddsResults": null,
+            "matchResults": [],
+            "resolvingRules": [],
+            "utcDate": "2025-06-19T19:00:00Z",
+            "streams": [
+                "PREMATCH"
+            ],
+            "superAdvantage": "SA_PREMATCH"
+        },
+        {
+            "uuid": "a5f5b640-1a3b-52a4-a5da-9c4b109658b2",
+            "eventId": 7137780,
+            "matchDate": "2025-06-24 01:00:00",
+            "homeTeamId": "278778",
+            "awayTeamId": "2883",
+            "matchCode": 1938,
+            "incrementId": 1001193,
+            "offerId": 7137780,
+            "sportId": 5,
+            "categoryId": 31,
+            "tournamentId": 83710,
+            "betradarId": "56189293",
+            "matchTags": "v2",
+            "matchPromotedLiveOrder": 10000,
+            "tournamentPromotedLiveOrder": 10000,
+            "matchTimestamp": 1750341053584,
+            "hasLive": true,
+            "matchName": "Inter Miami·Palmeiras",
+            "specialOfferIds": [],
+            "offerStateStatus": {
+                "1": "active"
+            },
+            "marketCount": 166,
+            "counts": {
+                "odds": {
+                    "1": 1945,
+                    "2": 0
+                },
+                "markets": {
+                    "1": 166,
+                    "2": 0
+                }
+            },
+            "odds": [
+                {
+                    "uuid": "c24c2b19-3d82-577c-bc06-574044a3f4ff",
+                    "marketUuid": "22ad7f2e-4591-52b9-8e1c-ffef62f2582d",
+                    "marketId": 547,
+                    "outcomeId": 1470,
+                    "price": 4.9,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "Combinable,BPWM,Pre-selected market,pm_boostable_market,v2",
+                    "code": "11",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "1",
+                    "marketName": "Final",
+                    "info": "Inter Miami câştigă meciul",
+                    "superAdvantageEligible": true
+                },
+                {
+                    "uuid": "8c81e39e-d44c-5682-8aab-8d594465c11a",
+                    "marketUuid": "22ad7f2e-4591-52b9-8e1c-ffef62f2582d",
+                    "marketId": 547,
+                    "outcomeId": 1471,
+                    "price": 4.25,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "10",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "X",
+                    "marketName": "Final",
+                    "info": "Egalitate"
+                },
+                {
+                    "uuid": "72cd0881-cd0c-5694-a64b-836cb2504fac",
+                    "marketUuid": "22ad7f2e-4591-52b9-8e1c-ffef62f2582d",
+                    "marketId": 547,
+                    "outcomeId": 1472,
+                    "price": 1.63,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "12",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "2",
+                    "marketName": "Final",
+                    "info": "Palmeiras câştigă meciul",
+                    "superAdvantageEligible": true
+                }
+            ],
+            "oddsResults": null,
+            "matchResults": [],
+            "resolvingRules": [],
+            "utcDate": "2025-06-24T01:00:00Z",
+            "streams": [
+                "PREMATCH"
+            ],
+            "superAdvantage": "SA_PREMATCH"
+        },
+        {
+            "uuid": "9e7cf87a-ebc3-5660-b310-9a54c8bde01a",
+            "eventId": 7137783,
+            "matchDate": "2025-06-24 01:00:00",
+            "homeTeamId": "4273",
+            "awayTeamId": "20",
+            "matchCode": 9789,
+            "incrementId": 1000615,
+            "offerId": 7137783,
+            "sportId": 5,
+            "categoryId": 31,
+            "tournamentId": 83710,
+            "betradarId": "56189295",
+            "matchTags": "v2",
+            "matchPromotedLiveOrder": 10000,
+            "tournamentPromotedLiveOrder": 10000,
+            "matchTimestamp": 1750329579521,
+            "hasLive": true,
+            "matchName": "Porto·Al Ahly Cairo",
+            "specialOfferIds": [],
+            "offerStateStatus": {
+                "1": "active"
+            },
+            "marketCount": 166,
+            "counts": {
+                "odds": {
+                    "1": 1914,
+                    "2": 0
+                },
+                "markets": {
+                    "1": 166,
+                    "2": 0
+                }
+            },
+            "odds": [
+                {
+                    "uuid": "f2350c69-a625-5daf-9527-c87ba26d2b26",
+                    "marketUuid": "2eee7bfc-6b5e-56d4-9a80-5dd03a89f4dc",
+                    "marketId": 547,
+                    "outcomeId": 1470,
+                    "price": 1.68,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "Combinable,BPWM,Pre-selected market,pm_boostable_market,v2",
+                    "code": "11",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "1",
+                    "marketName": "Final",
+                    "info": "Porto câştigă meciul",
+                    "superAdvantageEligible": true
+                },
+                {
+                    "uuid": "07d2bdfd-2648-5ce2-adbc-000dc241901b",
+                    "marketUuid": "2eee7bfc-6b5e-56d4-9a80-5dd03a89f4dc",
+                    "marketId": 547,
+                    "outcomeId": 1471,
+                    "price": 3.85,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "10",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "X",
+                    "marketName": "Final",
+                    "info": "Egalitate"
+                },
+                {
+                    "uuid": "01854358-b5c0-56e5-92a8-65e8f6924579",
+                    "marketUuid": "2eee7bfc-6b5e-56d4-9a80-5dd03a89f4dc",
+                    "marketId": 547,
+                    "outcomeId": 1472,
+                    "price": 5.15,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "12",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "2",
+                    "marketName": "Final",
+                    "info": "Al Ahly Cairo câştigă meciul",
+                    "superAdvantageEligible": true
+                }
+            ],
+            "oddsResults": null,
+            "matchResults": [],
+            "resolvingRules": [],
+            "utcDate": "2025-06-24T01:00:00Z",
+            "streams": [
+                "PREMATCH"
+            ],
+            "superAdvantage": "SA_PREMATCH"
+        }
+    ]
+}

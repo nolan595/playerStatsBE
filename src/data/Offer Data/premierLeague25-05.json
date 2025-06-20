@@ -1,0 +1,1153 @@
+{
+    "error": false,
+    "dataIn": {
+        "lang": "ro-RO",
+        "startDate": "2025-05-25T13:00:00Z",
+        "currentStatus": "active",
+        "tournamentIds": [
+            106
+        ]
+    },
+    "data": [
+        {
+            "uuid": "38ca5d65-3a64-5712-abe9-0ad2429ebca4",
+            "eventId": 8139940,
+            "matchDate": "2025-08-15 19:00:00",
+            "homeTeamId": "4075",
+            "awayTeamId": "993",
+            "matchCode": 9500,
+            "incrementId": 1000092,
+            "offerId": 8139940,
+            "sportId": 5,
+            "categoryId": 45,
+            "tournamentId": 106,
+            "betradarId": "61300505",
+            "matchTags": "v2",
+            "matchPromotedLiveOrder": 10000,
+            "tournamentPromotedLiveOrder": 10000,
+            "matchTimestamp": 1750409670259,
+            "hasLive": true,
+            "matchName": "Liverpool·Bournemouth",
+            "specialOfferIds": [],
+            "offerStateStatus": {
+                "1": "active"
+            },
+            "marketCount": 165,
+            "counts": {
+                "odds": {
+                    "1": 1830,
+                    "2": 0
+                },
+                "markets": {
+                    "1": 165,
+                    "2": 0
+                }
+            },
+            "odds": [
+                {
+                    "uuid": "164650ec-d883-5e0a-a02c-4d8d5517c707",
+                    "marketUuid": "a03e70f1-3172-5be1-b079-a98768e27449",
+                    "marketId": 547,
+                    "outcomeId": 1470,
+                    "price": 1.41,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "Combinable,BPWM,Pre-selected market,pm_boostable_market,v2",
+                    "code": "11",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "1",
+                    "marketName": "Final",
+                    "info": "Liverpool câştigă meciul",
+                    "superAdvantageEligible": true
+                },
+                {
+                    "uuid": "d472843b-7deb-5a23-8a97-9fcf017363b0",
+                    "marketUuid": "a03e70f1-3172-5be1-b079-a98768e27449",
+                    "marketId": 547,
+                    "outcomeId": 1471,
+                    "price": 5.3,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "10",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "X",
+                    "marketName": "Final",
+                    "info": "Egalitate"
+                },
+                {
+                    "uuid": "cec5ac85-aaa0-529c-9d4b-95ed15c355e5",
+                    "marketUuid": "a03e70f1-3172-5be1-b079-a98768e27449",
+                    "marketId": 547,
+                    "outcomeId": 1472,
+                    "price": 6.8,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "12",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "2",
+                    "marketName": "Final",
+                    "info": "Bournemouth câştigă meciul",
+                    "superAdvantageEligible": true
+                }
+            ],
+            "oddsResults": null,
+            "matchResults": [],
+            "resolvingRules": [
+                {
+                    "name": "prohibit_with",
+                    "param1": 0,
+                    "param2": 0,
+                    "modifier": "CLS431886;CLS431887;CLS432536;CLS431888;CLS432537;CLS431885;CLS431882;CLS431889;CLS431881;"
+                }
+            ],
+            "utcDate": "2025-08-15T19:00:00Z",
+            "streams": [
+                "PREMATCH"
+            ],
+            "superAdvantage": "SA_PREMATCH"
+        },
+        {
+            "uuid": "fafec2fd-e4dd-567a-a88c-3e4f3d1b292a",
+            "eventId": 8139941,
+            "matchDate": "2025-08-16 11:30:00",
+            "homeTeamId": "965",
+            "awayTeamId": "1104",
+            "matchCode": 1338,
+            "incrementId": 1000062,
+            "offerId": 8139941,
+            "sportId": 5,
+            "categoryId": 45,
+            "tournamentId": 106,
+            "betradarId": "61300507",
+            "matchTags": "v2",
+            "matchPromotedLiveOrder": 10000,
+            "tournamentPromotedLiveOrder": 10000,
+            "matchTimestamp": 1750407365758,
+            "hasLive": true,
+            "matchName": "Aston Villa·Newcastle",
+            "specialOfferIds": [],
+            "offerStateStatus": {
+                "1": "active"
+            },
+            "marketCount": 165,
+            "counts": {
+                "odds": {
+                    "1": 1823,
+                    "2": 0
+                },
+                "markets": {
+                    "1": 165,
+                    "2": 0
+                }
+            },
+            "odds": [
+                {
+                    "uuid": "f6a3dfd3-b0b6-517f-a541-b3ece4a9f8e1",
+                    "marketUuid": "7bf87e3d-d70d-5f80-aa04-853470ff8f94",
+                    "marketId": 547,
+                    "outcomeId": 1470,
+                    "price": 2.4,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "Combinable,BPWM,Pre-selected market,pm_boostable_market,v2",
+                    "code": "11",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "1",
+                    "marketName": "Final",
+                    "info": "Aston Villa câştigă meciul",
+                    "superAdvantageEligible": true
+                },
+                {
+                    "uuid": "a7f7fe0d-40f1-5204-ad02-54ae197febb7",
+                    "marketUuid": "7bf87e3d-d70d-5f80-aa04-853470ff8f94",
+                    "marketId": 547,
+                    "outcomeId": 1471,
+                    "price": 3.6,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "10",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "X",
+                    "marketName": "Final",
+                    "info": "Egalitate"
+                },
+                {
+                    "uuid": "4706ac94-cd88-5124-a208-4ba727c0a64f",
+                    "marketUuid": "7bf87e3d-d70d-5f80-aa04-853470ff8f94",
+                    "marketId": 547,
+                    "outcomeId": 1472,
+                    "price": 2.9,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "12",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "2",
+                    "marketName": "Final",
+                    "info": "Newcastle câştigă meciul",
+                    "superAdvantageEligible": true
+                }
+            ],
+            "oddsResults": null,
+            "matchResults": [],
+            "resolvingRules": [
+                {
+                    "name": "prohibit_with",
+                    "param1": 0,
+                    "param2": 0,
+                    "modifier": "CLS431886;CLS431887;CLS432536;CLS431888;CLS432537;CLS431885;CLS431882;CLS431889;CLS431881;"
+                }
+            ],
+            "utcDate": "2025-08-16T11:30:00Z",
+            "streams": [
+                "PREMATCH"
+            ],
+            "superAdvantage": "SA_PREMATCH"
+        },
+        {
+            "uuid": "50e41968-2e4f-5a62-b01c-45e4eba5dca5",
+            "eventId": 8139943,
+            "matchDate": "2025-08-16 14:00:00",
+            "homeTeamId": "4018",
+            "awayTeamId": "1852",
+            "matchCode": 8163,
+            "incrementId": 1000076,
+            "offerId": 8139943,
+            "sportId": 5,
+            "categoryId": 45,
+            "tournamentId": 106,
+            "betradarId": "61300511",
+            "matchTags": "v2",
+            "matchPromotedLiveOrder": 10000,
+            "tournamentPromotedLiveOrder": 10000,
+            "matchTimestamp": 1750409438452,
+            "hasLive": true,
+            "matchName": "Nottingham Forest·Brentford",
+            "specialOfferIds": [],
+            "offerStateStatus": {
+                "1": "active"
+            },
+            "marketCount": 165,
+            "counts": {
+                "odds": {
+                    "1": 1818,
+                    "2": 0
+                },
+                "markets": {
+                    "1": 165,
+                    "2": 0
+                }
+            },
+            "odds": [
+                {
+                    "uuid": "6617892b-80ed-5388-9619-b6f66e8e2384",
+                    "marketUuid": "ab3f5481-389b-579f-b8f4-e9520423d0f8",
+                    "marketId": 547,
+                    "outcomeId": 1470,
+                    "price": 2.2,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "Combinable,BPWM,Pre-selected market,pm_boostable_market,v2",
+                    "code": "11",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "1",
+                    "marketName": "Final",
+                    "info": "Nottingham Forest câştigă meciul",
+                    "superAdvantageEligible": true
+                },
+                {
+                    "uuid": "bb33e7b6-81bf-52ed-928a-1134b7f05cf8",
+                    "marketUuid": "ab3f5481-389b-579f-b8f4-e9520423d0f8",
+                    "marketId": 547,
+                    "outcomeId": 1471,
+                    "price": 3.6,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "10",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "X",
+                    "marketName": "Final",
+                    "info": "Egalitate"
+                },
+                {
+                    "uuid": "6fe88ca7-7dd8-55a5-8b36-472fd04748cc",
+                    "marketUuid": "ab3f5481-389b-579f-b8f4-e9520423d0f8",
+                    "marketId": 547,
+                    "outcomeId": 1472,
+                    "price": 3.25,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "12",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "2",
+                    "marketName": "Final",
+                    "info": "Brentford câştigă meciul",
+                    "superAdvantageEligible": true
+                }
+            ],
+            "oddsResults": null,
+            "matchResults": [],
+            "resolvingRules": [
+                {
+                    "name": "prohibit_with",
+                    "param1": 0,
+                    "param2": 0,
+                    "modifier": "CLS431886;CLS431887;CLS432536;CLS431888;CLS432537;CLS431885;CLS431882;CLS431889;CLS431881;"
+                }
+            ],
+            "utcDate": "2025-08-16T14:00:00Z",
+            "streams": [
+                "PREMATCH"
+            ],
+            "superAdvantage": "SA_PREMATCH"
+        },
+        {
+            "uuid": "8456d40d-f292-5a6f-8162-32844a1ce44a",
+            "eventId": 8139945,
+            "matchDate": "2025-08-16 14:00:00",
+            "homeTeamId": "4228",
+            "awayTeamId": "317",
+            "matchCode": 3766,
+            "incrementId": 1000062,
+            "offerId": 8139945,
+            "sportId": 5,
+            "categoryId": 45,
+            "tournamentId": 106,
+            "betradarId": "61300509",
+            "matchTags": "v2",
+            "matchPromotedLiveOrder": 10000,
+            "tournamentPromotedLiveOrder": 10000,
+            "matchTimestamp": 1750407452480,
+            "hasLive": true,
+            "matchName": "Brighton·Fulham",
+            "specialOfferIds": [],
+            "offerStateStatus": {
+                "1": "active"
+            },
+            "marketCount": 165,
+            "counts": {
+                "odds": {
+                    "1": 1822,
+                    "2": 0
+                },
+                "markets": {
+                    "1": 165,
+                    "2": 0
+                }
+            },
+            "odds": [
+                {
+                    "uuid": "0f2e6c25-735f-5900-ae2f-6d8d4f524cb8",
+                    "marketUuid": "1ac78bf2-8a0a-560b-b32e-c7c86b60fe89",
+                    "marketId": 547,
+                    "outcomeId": 1470,
+                    "price": 1.88,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "Combinable,BPWM,Pre-selected market,pm_boostable_market,v2",
+                    "code": "11",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "1",
+                    "marketName": "Final",
+                    "info": "Brighton câştigă meciul",
+                    "superAdvantageEligible": true
+                },
+                {
+                    "uuid": "a01c9d4b-8857-569a-b960-c04b01b5421f",
+                    "marketUuid": "1ac78bf2-8a0a-560b-b32e-c7c86b60fe89",
+                    "marketId": 547,
+                    "outcomeId": 1471,
+                    "price": 3.8,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "10",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "X",
+                    "marketName": "Final",
+                    "info": "Egalitate"
+                },
+                {
+                    "uuid": "7b76f9da-549d-515c-b03d-92c8c1788a8a",
+                    "marketUuid": "1ac78bf2-8a0a-560b-b32e-c7c86b60fe89",
+                    "marketId": 547,
+                    "outcomeId": 1472,
+                    "price": 4,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "12",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "2",
+                    "marketName": "Final",
+                    "info": "Fulham câştigă meciul",
+                    "superAdvantageEligible": true
+                }
+            ],
+            "oddsResults": null,
+            "matchResults": [],
+            "resolvingRules": [
+                {
+                    "name": "prohibit_with",
+                    "param1": 0,
+                    "param2": 0,
+                    "modifier": "CLS431886;CLS431887;CLS432536;CLS431888;CLS432537;CLS431885;CLS431882;CLS431889;CLS431881;"
+                }
+            ],
+            "utcDate": "2025-08-16T14:00:00Z",
+            "streams": [
+                "PREMATCH"
+            ],
+            "superAdvantage": "SA_PREMATCH"
+        },
+        {
+            "uuid": "264b6799-69bc-5a2d-b5ba-b9c2648a00ce",
+            "eventId": 8139949,
+            "matchDate": "2025-08-16 14:00:00",
+            "homeTeamId": "482",
+            "awayTeamId": "4051",
+            "matchCode": 9215,
+            "incrementId": 1000072,
+            "offerId": 8139949,
+            "sportId": 5,
+            "categoryId": 45,
+            "tournamentId": 106,
+            "betradarId": "61300515",
+            "matchTags": "v2",
+            "matchPromotedLiveOrder": 10000,
+            "tournamentPromotedLiveOrder": 10000,
+            "matchTimestamp": 1750409982035,
+            "hasLive": true,
+            "matchName": "Tottenham·Burnley",
+            "specialOfferIds": [],
+            "offerStateStatus": {
+                "1": "active"
+            },
+            "marketCount": 164,
+            "counts": {
+                "odds": {
+                    "1": 1817,
+                    "2": 0
+                },
+                "markets": {
+                    "2": 0,
+                    "1": 164
+                }
+            },
+            "odds": [
+                {
+                    "uuid": "229c197b-6541-5c0a-b541-24e460e83ea3",
+                    "marketUuid": "3e5000df-137b-5316-8351-57dc0eaa9fd0",
+                    "marketId": 547,
+                    "outcomeId": 1470,
+                    "price": 1.39,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "Combinable,BPWM,Pre-selected market,pm_boostable_market,v2",
+                    "code": "11",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "1",
+                    "marketName": "Final",
+                    "info": "Tottenham câştigă meciul",
+                    "superAdvantageEligible": true
+                },
+                {
+                    "uuid": "a3f9106a-8623-538f-9766-d6a1d1f7519b",
+                    "marketUuid": "3e5000df-137b-5316-8351-57dc0eaa9fd0",
+                    "marketId": 547,
+                    "outcomeId": 1471,
+                    "price": 5.2,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "10",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "X",
+                    "marketName": "Final",
+                    "info": "Egalitate"
+                },
+                {
+                    "uuid": "0ba20984-14d1-5195-ba0a-6437535a4174",
+                    "marketUuid": "3e5000df-137b-5316-8351-57dc0eaa9fd0",
+                    "marketId": 547,
+                    "outcomeId": 1472,
+                    "price": 7.7,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "12",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "2",
+                    "marketName": "Final",
+                    "info": "Burnley câştigă meciul",
+                    "superAdvantageEligible": true
+                }
+            ],
+            "oddsResults": null,
+            "matchResults": [],
+            "resolvingRules": [
+                {
+                    "name": "prohibit_with",
+                    "param1": 0,
+                    "param2": 0,
+                    "modifier": "CLS431886;CLS431887;CLS432536;CLS431888;CLS432537;CLS431885;CLS431882;CLS431889;CLS431881;"
+                }
+            ],
+            "utcDate": "2025-08-16T14:00:00Z",
+            "streams": [
+                "PREMATCH"
+            ],
+            "superAdvantage": "SA_PREMATCH"
+        },
+        {
+            "uuid": "4fca3b26-9097-51af-a4f3-8218a998b9c8",
+            "eventId": 8139952,
+            "matchDate": "2025-08-16 14:00:00",
+            "homeTeamId": "2173",
+            "awayTeamId": "232",
+            "matchCode": 7540,
+            "incrementId": 1000060,
+            "offerId": 8139952,
+            "sportId": 5,
+            "categoryId": 45,
+            "tournamentId": 106,
+            "betradarId": "61300513",
+            "matchTags": "v2",
+            "matchPromotedLiveOrder": 10000,
+            "tournamentPromotedLiveOrder": 10000,
+            "matchTimestamp": 1750408899100,
+            "hasLive": true,
+            "matchName": "Sunderland·West Ham",
+            "specialOfferIds": [],
+            "offerStateStatus": {
+                "1": "active"
+            },
+            "marketCount": 165,
+            "counts": {
+                "odds": {
+                    "1": 1820,
+                    "2": 0
+                },
+                "markets": {
+                    "2": 0,
+                    "1": 165
+                }
+            },
+            "odds": [
+                {
+                    "uuid": "01b4c8af-a1d7-58af-be37-41313f0ce3ec",
+                    "marketUuid": "0013a2ed-c6a1-539d-a30e-1f1045446a2e",
+                    "marketId": 547,
+                    "outcomeId": 1470,
+                    "price": 3.2,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "Combinable,BPWM,Pre-selected market,pm_boostable_market,v2",
+                    "code": "11",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "1",
+                    "marketName": "Final",
+                    "info": "Sunderland câştigă meciul",
+                    "superAdvantageEligible": true
+                },
+                {
+                    "uuid": "1d56842b-2e30-5b57-88bf-e00aee24e6a0",
+                    "marketUuid": "0013a2ed-c6a1-539d-a30e-1f1045446a2e",
+                    "marketId": 547,
+                    "outcomeId": 1471,
+                    "price": 3.5,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "10",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "X",
+                    "marketName": "Final",
+                    "info": "Egalitate"
+                },
+                {
+                    "uuid": "cc844187-1f67-5702-b614-2cd4a1c1fe8d",
+                    "marketUuid": "0013a2ed-c6a1-539d-a30e-1f1045446a2e",
+                    "marketId": 547,
+                    "outcomeId": 1472,
+                    "price": 2.25,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "12",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "2",
+                    "marketName": "Final",
+                    "info": "West Ham câştigă meciul",
+                    "superAdvantageEligible": true
+                }
+            ],
+            "oddsResults": null,
+            "matchResults": [],
+            "resolvingRules": [
+                {
+                    "name": "prohibit_with",
+                    "param1": 0,
+                    "param2": 0,
+                    "modifier": "CLS431886;CLS431887;CLS432536;CLS431888;CLS432537;CLS431885;CLS431882;CLS431889;CLS431881;"
+                }
+            ],
+            "utcDate": "2025-08-16T14:00:00Z",
+            "streams": [
+                "PREMATCH"
+            ],
+            "superAdvantage": "SA_PREMATCH"
+        },
+        {
+            "uuid": "8559af45-55a1-50ff-be4e-0554426f7de5",
+            "eventId": 8139948,
+            "matchDate": "2025-08-16 16:30:00",
+            "homeTeamId": "2375",
+            "awayTeamId": "303",
+            "matchCode": 5165,
+            "incrementId": 1000094,
+            "offerId": 8139948,
+            "sportId": 5,
+            "categoryId": 45,
+            "tournamentId": 106,
+            "betradarId": "61300517",
+            "matchTags": "v2",
+            "matchPromotedLiveOrder": 10000,
+            "tournamentPromotedLiveOrder": 10000,
+            "matchTimestamp": 1750409411545,
+            "hasLive": true,
+            "matchName": "Wolverhampton·Manchester City",
+            "specialOfferIds": [],
+            "offerStateStatus": {
+                "1": "active"
+            },
+            "marketCount": 165,
+            "counts": {
+                "odds": {
+                    "1": 1818,
+                    "2": 0
+                },
+                "markets": {
+                    "1": 165,
+                    "2": 0
+                }
+            },
+            "odds": [
+                {
+                    "uuid": "85ee18dd-2178-5db1-a04e-b44ab6958142",
+                    "marketUuid": "62db88dc-dade-52b8-9a7d-f2f7c6c575e8",
+                    "marketId": 547,
+                    "outcomeId": 1470,
+                    "price": 6.3,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "Combinable,BPWM,Pre-selected market,pm_boostable_market,v2",
+                    "code": "11",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "1",
+                    "marketName": "Final",
+                    "info": "Wolverhampton câştigă meciul",
+                    "superAdvantageEligible": true
+                },
+                {
+                    "uuid": "e58da73a-a69d-5f9d-8f40-25e947daedd6",
+                    "marketUuid": "62db88dc-dade-52b8-9a7d-f2f7c6c575e8",
+                    "marketId": 547,
+                    "outcomeId": 1471,
+                    "price": 4.7,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "10",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "X",
+                    "marketName": "Final",
+                    "info": "Egalitate"
+                },
+                {
+                    "uuid": "83e18cf0-b0cb-52bc-b6a3-e7365e1ff648",
+                    "marketUuid": "62db88dc-dade-52b8-9a7d-f2f7c6c575e8",
+                    "marketId": 547,
+                    "outcomeId": 1472,
+                    "price": 1.49,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "12",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "2",
+                    "marketName": "Final",
+                    "info": "Manchester City câştigă meciul",
+                    "superAdvantageEligible": true
+                }
+            ],
+            "oddsResults": null,
+            "matchResults": [],
+            "resolvingRules": [
+                {
+                    "name": "prohibit_with",
+                    "param1": 0,
+                    "param2": 0,
+                    "modifier": "CLS431886;CLS431887;CLS432536;CLS431888;CLS432537;CLS431885;CLS431882;CLS431889;CLS431881;"
+                }
+            ],
+            "utcDate": "2025-08-16T16:30:00Z",
+            "streams": [
+                "PREMATCH"
+            ],
+            "superAdvantage": "SA_PREMATCH"
+        },
+        {
+            "uuid": "f4bbf2fa-8b9e-5d14-bdc6-10197ec08e22",
+            "eventId": 8139950,
+            "matchDate": "2025-08-17 13:00:00",
+            "homeTeamId": "958",
+            "awayTeamId": "4078",
+            "matchCode": 8821,
+            "incrementId": 1000076,
+            "offerId": 8139950,
+            "sportId": 5,
+            "categoryId": 45,
+            "tournamentId": 106,
+            "betradarId": "61300519",
+            "matchTags": "v2",
+            "matchPromotedLiveOrder": 10000,
+            "tournamentPromotedLiveOrder": 10000,
+            "matchTimestamp": 1750413600559,
+            "hasLive": true,
+            "matchName": "Chelsea·Crystal Palace",
+            "specialOfferIds": [],
+            "offerStateStatus": {
+                "1": "active"
+            },
+            "marketCount": 165,
+            "counts": {
+                "odds": {
+                    "1": 1821,
+                    "2": 0
+                },
+                "markets": {
+                    "2": 0,
+                    "1": 165
+                }
+            },
+            "odds": [
+                {
+                    "uuid": "aa74035d-3228-57b3-bd49-470f19278462",
+                    "marketUuid": "e9d439c8-aca4-5576-9faf-06b1ce03b390",
+                    "marketId": 547,
+                    "outcomeId": 1470,
+                    "price": 1.64,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "Combinable,BPWM,Pre-selected market,pm_boostable_market,v2",
+                    "code": "11",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "1",
+                    "marketName": "Final",
+                    "info": "Chelsea câştigă meciul",
+                    "superAdvantageEligible": true
+                },
+                {
+                    "uuid": "6d6d1023-0bae-55f3-b541-381c7f369b1c",
+                    "marketUuid": "e9d439c8-aca4-5576-9faf-06b1ce03b390",
+                    "marketId": 547,
+                    "outcomeId": 1471,
+                    "price": 4.25,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "10",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "X",
+                    "marketName": "Final",
+                    "info": "Egalitate"
+                },
+                {
+                    "uuid": "52bff3ae-b166-583f-a932-32ead29d18a1",
+                    "marketUuid": "e9d439c8-aca4-5576-9faf-06b1ce03b390",
+                    "marketId": 547,
+                    "outcomeId": 1472,
+                    "price": 5.1,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "12",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "2",
+                    "marketName": "Final",
+                    "info": "Crystal Palace câştigă meciul",
+                    "superAdvantageEligible": true
+                }
+            ],
+            "oddsResults": null,
+            "matchResults": [],
+            "resolvingRules": [
+                {
+                    "name": "prohibit_with",
+                    "param1": 0,
+                    "param2": 0,
+                    "modifier": "CLS431886;CLS431887;CLS432536;CLS431888;CLS432537;CLS431885;CLS431882;CLS431889;CLS431881;"
+                }
+            ],
+            "utcDate": "2025-08-17T13:00:00Z",
+            "streams": [
+                "PREMATCH"
+            ],
+            "superAdvantage": "SA_PREMATCH"
+        },
+        {
+            "uuid": "26ff4398-3a26-5170-bbee-7ebaec3f4312",
+            "eventId": 8139951,
+            "matchDate": "2025-08-17 15:30:00",
+            "homeTeamId": "480",
+            "awayTeamId": "1885",
+            "matchCode": 4047,
+            "incrementId": 1000064,
+            "offerId": 8139951,
+            "sportId": 5,
+            "categoryId": 45,
+            "tournamentId": 106,
+            "betradarId": "61300521",
+            "matchTags": "v2",
+            "matchPromotedLiveOrder": 10000,
+            "tournamentPromotedLiveOrder": 10000,
+            "matchTimestamp": 1750407452480,
+            "hasLive": true,
+            "matchName": "Manchester United·Arsenal",
+            "specialOfferIds": [],
+            "offerStateStatus": {
+                "1": "active"
+            },
+            "marketCount": 165,
+            "counts": {
+                "odds": {
+                    "1": 1817,
+                    "2": 0
+                },
+                "markets": {
+                    "1": 165,
+                    "2": 0
+                }
+            },
+            "odds": [
+                {
+                    "uuid": "4fd26630-0268-52ee-b4df-8f1f604864b1",
+                    "marketUuid": "e762d937-ff7e-553d-9dc5-47ac3604db7f",
+                    "marketId": 547,
+                    "outcomeId": 1470,
+                    "price": 3.2,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "Combinable,BPWM,Pre-selected market,pm_boostable_market,v2",
+                    "code": "11",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "1",
+                    "marketName": "Final",
+                    "info": "Manchester United câştigă meciul",
+                    "superAdvantageEligible": true
+                },
+                {
+                    "uuid": "11b937a6-4082-5d4f-b19a-f019c5a9d55a",
+                    "marketUuid": "e762d937-ff7e-553d-9dc5-47ac3604db7f",
+                    "marketId": 547,
+                    "outcomeId": 1471,
+                    "price": 3.45,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "10",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "X",
+                    "marketName": "Final",
+                    "info": "Egalitate"
+                },
+                {
+                    "uuid": "cfa807af-a562-57d5-af9b-17e714d7f257",
+                    "marketUuid": "e762d937-ff7e-553d-9dc5-47ac3604db7f",
+                    "marketId": 547,
+                    "outcomeId": 1472,
+                    "price": 2.27,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "12",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "2",
+                    "marketName": "Final",
+                    "info": "Arsenal câştigă meciul",
+                    "superAdvantageEligible": true
+                }
+            ],
+            "oddsResults": null,
+            "matchResults": [],
+            "resolvingRules": [
+                {
+                    "name": "prohibit_with",
+                    "param1": 0,
+                    "param2": 0,
+                    "modifier": "CLS431886;CLS431887;CLS432536;CLS431888;CLS432537;CLS431885;CLS431882;CLS431889;CLS431881;"
+                }
+            ],
+            "utcDate": "2025-08-17T15:30:00Z",
+            "streams": [
+                "PREMATCH"
+            ],
+            "superAdvantage": "SA_PREMATCH"
+        },
+        {
+            "uuid": "895e7537-d86e-5bdf-86bd-1a650b4776e0",
+            "eventId": 8139954,
+            "matchDate": "2025-08-18 19:00:00",
+            "homeTeamId": "4055",
+            "awayTeamId": "435",
+            "matchCode": 1932,
+            "incrementId": 1000066,
+            "offerId": 8139954,
+            "sportId": 5,
+            "categoryId": 45,
+            "tournamentId": 106,
+            "betradarId": "61300523",
+            "matchTags": "v2",
+            "matchPromotedLiveOrder": 10000,
+            "tournamentPromotedLiveOrder": 10000,
+            "matchTimestamp": 1750409645971,
+            "hasLive": true,
+            "matchName": "Leeds United·Everton",
+            "specialOfferIds": [],
+            "offerStateStatus": {
+                "1": "active"
+            },
+            "marketCount": 165,
+            "counts": {
+                "odds": {
+                    "1": 1815,
+                    "2": 0
+                },
+                "markets": {
+                    "1": 165,
+                    "2": 0
+                }
+            },
+            "odds": [
+                {
+                    "uuid": "d00ee5a1-4fcf-505e-a77f-03fe92455c15",
+                    "marketUuid": "44c7f152-d236-5b13-a19c-a2e0e8d9bc61",
+                    "marketId": 547,
+                    "outcomeId": 1470,
+                    "price": 2.62,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "Combinable,BPWM,Pre-selected market,pm_boostable_market,v2",
+                    "code": "11",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "1",
+                    "marketName": "Final",
+                    "info": "Leeds United câştigă meciul",
+                    "superAdvantageEligible": true
+                },
+                {
+                    "uuid": "252ccec1-9e8a-5385-8282-325cdd6b2333",
+                    "marketUuid": "44c7f152-d236-5b13-a19c-a2e0e8d9bc61",
+                    "marketId": 547,
+                    "outcomeId": 1471,
+                    "price": 3.35,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "10",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "X",
+                    "marketName": "Final",
+                    "info": "Egalitate"
+                },
+                {
+                    "uuid": "5e1e06c2-3caa-544e-b2fd-2b5f53e0bcc8",
+                    "marketUuid": "44c7f152-d236-5b13-a19c-a2e0e8d9bc61",
+                    "marketId": 547,
+                    "outcomeId": 1472,
+                    "price": 2.75,
+                    "status": "active",
+                    "marketGroupOrder": 3,
+                    "marketTags": "preselected",
+                    "offerStateId": 1,
+                    "showSpecialBetValue": "0",
+                    "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2",
+                    "code": "12",
+                    "extra": {
+                        "tags": "BPWM,Combinable,Pre-selected market,pm_boostable_market,v2"
+                    },
+                    "name": "2",
+                    "marketName": "Final",
+                    "info": "Everton câştigă meciul",
+                    "superAdvantageEligible": true
+                }
+            ],
+            "oddsResults": null,
+            "matchResults": [],
+            "resolvingRules": [
+                {
+                    "name": "prohibit_with",
+                    "param1": 0,
+                    "param2": 0,
+                    "modifier": "CLS431886;CLS431887;CLS432536;CLS431888;CLS432537;CLS431885;CLS431882;CLS431889;CLS431881;"
+                }
+            ],
+            "utcDate": "2025-08-18T19:00:00Z",
+            "streams": [
+                "PREMATCH"
+            ],
+            "superAdvantage": "SA_PREMATCH"
+        }
+    ]
+}
