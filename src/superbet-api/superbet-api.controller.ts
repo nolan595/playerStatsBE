@@ -41,17 +41,15 @@ export class SuperbetApiController {
 
   @Get('offer/sports-events')
   @ApiQuery({ name: 'startDate', required: true, type: String })
-  @ApiQuery({ name: 'pageNumber', required: false, type: Number })
-  @ApiQuery({ name: 'pageSize', required: false, type: Number })
+  @ApiQuery({ name: 'sportId', required: false, type: Number })
   getOfferFeed(
     @Query('startDate') startDate: string,
-    @Query('pageNumber') pageNumber?: number,
-    @Query('pageSize') pageSize?: number,
+
+    @Query('sportId') sportId?: number,
   ) {
     return this.superbetApiService.getOfferFeed(
       startDate,
-      pageNumber,
-      pageSize,
+      sportId,
     );
   }
 }

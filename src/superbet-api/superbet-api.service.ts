@@ -131,20 +131,19 @@ export class SuperbetApiService {
 
   async getOfferFeed(
     startDate: string,
-    pageNumber = 1,
-    pageSize = 10,
+    sportId?: number,
   ): Promise<{
     records: any[];
     total: number;
-    pageNumber: number;
-    pageSize: number;
-    totalPages: number;
   }> {
     const baseUrl = this.configService.get<string>('OFFER_API');
-    const params = { startDate };
+    const params: any = { startDate };
+    if (sportId !== undefined) {
+      params.sportId = sportId;
+    }
 
     const response = await axios.get(baseUrl, { params });
-    const events = response.data?.data || response.data?.events || [];
+    const events = response.data?.data || [];
 
     const mappedEvents = events.map((event) => {
       const [homeName, awayName] = (event.matchName || 'Unknown·Unknown').split(
@@ -159,16 +158,9 @@ export class SuperbetApiService {
       };
     });
 
-    const total = mappedEvents.length;
-    const start = (pageNumber - 1) * pageSize;
-    const records = mappedEvents.slice(start, start + pageSize);
-
     return {
-      records,
-      total,
-      pageNumber,
-      pageSize,
-      totalPages: Math.ceil(total / pageSize),
+      records: mappedEvents,
+      total: mappedEvents.length,
     };
   }
 
